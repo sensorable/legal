@@ -2,7 +2,7 @@
 
 **BETWEEN mVentory Ltd (“Company”)** of Wellington
 
-**AND _____________________________ (“Contractor”)** of location
+**AND __________________________________________________________ (“Contractor”)** of location
 
 **together known as the Parties**
 
@@ -205,19 +205,11 @@ performance by the Contractor of any obligations on the Contractor under this Ag
 
 14.12 This Agreement will be governed and construed in accordance with the laws of New Zealand.
 
-**EXECUTION DATED** this _______ day of _______ **2015**
+**EXECUTION DATED** this _______ day of _______ **2015** 
 
-Signed by _________________ )
+Signed by _________________________________ | ________________________ for and on behalf of **Company** )
 
-________________________ )
-
-for and on behalf of **Company** )
-
-Signed by _________________ )
-
-________________________ )
-
-on behalf of **Name** )
+Signed by _________________________________ | ________________________ on behalf of **Contractor** )
 
 
 ### **Schedule 1 - Dispute Resolution**
